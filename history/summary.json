@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.sipadu.stis.ac.id.ico",
     "slug": "sipadu-ng",
     "status": "up",
-    "uptime": "76.04%",
-    "uptimeDay": "76.04%",
-    "uptimeWeek": "76.04%",
-    "uptimeMonth": "76.04%",
-    "uptimeYear": "76.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5298,
     "timeDay": 5298,
     "timeWeek": 5298,
     "timeMonth": 5298,
     "timeYear": 5298,
-    "dailyMinutesDown": {
-      "2023-01-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SIPADU OAuth",
