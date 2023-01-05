@@ -8,7 +8,9 @@ sites:
   - name: SIPADU (Old)
     url: https://stis.ac.id/sipadu/mahasiswa/index.php/login/index
   - name: SIPADU NG
-    url: https://perkuliahan.sipadu.stis.ac.id
+    url: https://ws.sipadu.stis.ac.id
+  - name: SIPADU OAuth
+    url: https://ws.stis.ac.id
   - name: Web Student
     url: https://student.stis.ac.id
   - name: Remotelab
@@ -17,6 +19,8 @@ sites:
     url: https://perpustakaan.stis.ac.id
   - name: Git
     url: https://git.stis.ac.id
+  - name: Link Shortener
+    url: https://s.stis.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
