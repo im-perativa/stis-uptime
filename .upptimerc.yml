@@ -8,7 +8,7 @@ sites:
   - name: SIPADU (Old)
     url: https://stis.ac.id/sipadu/mahasiswa/index.php/login/index
   - name: SIPADU NG
-    url: https://ws.sipadu.stis.ac.id
+    url: https://ws.sipadu.stis.ac.id/login
   - name: SIPADU OAuth
     url: https://ws.stis.ac.id
   - name: Web Student
