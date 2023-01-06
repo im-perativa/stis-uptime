@@ -7,20 +7,26 @@ sites:
     url: https://stis.ac.id
   - name: SIPADU (Old)
     url: https://stis.ac.id/sipadu/mahasiswa/index.php/login/index
+    icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadu.png
   - name: SIPADU NG
     url: https://ws.sipadu.stis.ac.id/login
+    icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg
   - name: SIPADU OAuth
     url: https://ws.stis.ac.id
-  - name: Web Student
+    icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg
+  - name: Web Student/Skripsi
     url: https://student.stis.ac.id
   - name: Remotelab
     url: https://remotelab.stis.ac.id
   - name: SIMPUS
     url: https://perpustakaan.stis.ac.id
-  - name: Git
+    icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png
+  - name: Gitlab
     url: https://git.stis.ac.id
   - name: Link Shortener
     url: https://s.stis.ac.id
+  - name: Jurnal ASKS
+    url: https://jurnal.stis.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
