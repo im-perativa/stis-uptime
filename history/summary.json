@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stis.ac.id.ico",
     "slug": "web-stis",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.52%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 4180,
     "timeDay": 1339,
     "timeWeek": 4180,
     "timeMonth": 4180,
     "timeYear": 4180,
     "dailyMinutesDown": {
-      "2023-01-10": 5
+      "2023-01-10": 37
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadu.png",
     "slug": "sipadu-old",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.53%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 237,
     "timeDay": 234,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-01-10": 4
+      "2023-01-10": 36
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.53%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 4636,
     "timeDay": 1182,
     "timeWeek": 4636,
     "timeMonth": 4636,
     "timeYear": 4636,
     "dailyMinutesDown": {
-      "2023-01-10": 4
+      "2023-01-10": 36
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.54%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 5608,
     "timeDay": 6544,
     "timeWeek": 5608,
     "timeMonth": 5608,
     "timeYear": 5608,
     "dailyMinutesDown": {
-      "2023-01-10": 3
+      "2023-01-10": 35
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.46%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 4720,
     "timeDay": 5467,
     "timeWeek": 4720,
     "timeMonth": 4720,
     "timeYear": 4720,
     "dailyMinutesDown": {
-      "2023-01-10": 3
+      "2023-01-10": 35
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/remotelab.stis.ac.id.ico",
     "slug": "remotelab",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.55%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 4736,
     "timeDay": 5708,
     "timeWeek": 4736,
     "timeMonth": 4736,
     "timeYear": 4736,
     "dailyMinutesDown": {
-      "2023-01-10": 2
+      "2023-01-10": 34
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.56%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 4215,
     "timeDay": 5053,
     "timeWeek": 4215,
     "timeMonth": 4215,
     "timeYear": 4215,
     "dailyMinutesDown": {
-      "2023-01-10": 2
+      "2023-01-10": 34
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.48%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 3481,
     "timeDay": 6303,
     "timeWeek": 3481,
     "timeMonth": 3481,
     "timeYear": 3481,
     "dailyMinutesDown": {
-      "2023-01-10": 1
+      "2023-01-10": 33
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.stis.ac.id.ico",
     "slug": "link-shortener",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.57%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 4376,
     "timeDay": 5944,
     "timeWeek": 4376,
     "timeMonth": 4376,
     "timeYear": 4376,
     "dailyMinutesDown": {
-      "2023-01-10": 1
+      "2023-01-10": 33
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://jurnal.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/jurnal.stis.ac.id.ico",
     "slug": "jurnal-asks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3944,
-    "timeDay": 2857,
-    "timeWeek": 3944,
-    "timeMonth": 3944,
-    "timeYear": 3944,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 4400,
+    "timeDay": 4767,
+    "timeWeek": 4400,
+    "timeMonth": 4400,
+    "timeYear": 4400,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 32
     }
   }
 ]
