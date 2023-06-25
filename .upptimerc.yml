@@ -27,6 +27,10 @@ sites:
     url: https://s.stis.ac.id
   - name: Jurnal ASKS
     url: https://jurnal.stis.ac.id
+  - name: Repo STIS
+    url: https://repo.stis.ac.id
+  - name: Profil Dosen STIS
+    url: https://stis.ac.id/dosen
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
