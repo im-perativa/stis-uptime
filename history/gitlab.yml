@@ -1,7 +1,7 @@
 url: https://git.stis.ac.id
-status: up
-code: 200
-responseTime: 768
-lastUpdated: 2023-07-22T03:24:18.525Z
+status: down
+code: 503
+responseTime: 3943
+lastUpdated: 2023-07-22T07:25:34.709Z
 startTime: Fri Jan 06 2023 04:11:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
