@@ -19,7 +19,10 @@ sites:
   - name: Remotelab
     url: https://remotelab.stis.ac.id
   - name: SIMPUS
-    url: https://perpustakaan.stis.ac.id
+    url: https://simpus.stis.ac.id
+    icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png
+  - name: SIMPUS-API
+    url: https://api-simpus.stis.ac.id
     icon: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png
   - name: Gitlab
     url: https://git.stis.ac.id
@@ -31,6 +34,10 @@ sites:
     url: https://repo.stis.ac.id
   - name: Profil Dosen STIS
     url: https://stis.ac.id/dosen
+  - name: Prosiding (SEMNAS)
+    url: https://prosiding.stis.ac.id
+  - name: Prosiding Internasional (ICDSOS)
+    url: https://proceedings.stis.ac.id/icdsos
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
