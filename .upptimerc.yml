@@ -38,6 +38,8 @@ sites:
     url: https://prosiding.stis.ac.id
   - name: Prosiding Internasional (ICDSOS)
     url: https://proceedings.stis.ac.id/icdsos
+  - name: SISTER Politeknik Statistika STIS
+    url: https://sister.stis.ac.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
