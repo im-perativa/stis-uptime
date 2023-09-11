@@ -221,7 +221,7 @@
     "timeMonth": 0,
     "timeYear": 2819,
     "dailyMinutesDown": {
-      "2023-09-11": 1421,
+      "2023-09-11": 1430,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -424,19 +424,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1831,
-    "timeDay": 1061,
-    "timeWeek": 1147,
-    "timeMonth": 1913,
-    "timeYear": 1831,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1803,
+    "timeDay": 782,
+    "timeWeek": 1045,
+    "timeMonth": 1878,
+    "timeYear": 1803,
     "dailyMinutesDown": {
-      "2023-09-11": 1
+      "2023-09-11": 9
     }
   },
   {
