@@ -40,7 +40,9 @@ sites:
     url: https://proceedings.stis.ac.id/icdsos
   - name: SISTER Politeknik Statistika STIS
     url: https://sister.stis.ac.id
-
+  - name: Web Alumni STIS
+    url: https://alumni.stis.ac.id
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
