@@ -46,7 +46,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /stis-uptime
+  cname: status.stis.ac.id
   logoUrl: https://raw.githubusercontent.com/im-perativa/stis-uptime/master/static/img/Logo.png
   name: STIS Uptime
   introTitle: "**STIS Uptime**"
