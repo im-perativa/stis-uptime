@@ -1,7 +1,7 @@
 url: https://ws.sipadu.stis.ac.id/login
-status: down
-code: 503
-responseTime: 1197
-lastUpdated: 2024-01-26T08:25:38.327Z
+status: up
+code: 200
+responseTime: 827
+lastUpdated: 2024-01-26T08:44:01.229Z
 startTime: 2023-01-05T07:23:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
