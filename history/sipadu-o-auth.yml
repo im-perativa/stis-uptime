@@ -1,7 +1,7 @@
 url: https://ws.stis.ac.id
-status: up
-code: 200
-responseTime: 1760
-lastUpdated: 2024-02-02T23:02:29.409Z
+status: down
+code: 500
+responseTime: 3455
+lastUpdated: 2024-02-03T12:52:00.881Z
 startTime: 2023-01-05T07:52:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
