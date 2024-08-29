@@ -1,7 +1,7 @@
 url: https://alumni.stis.ac.id
-status: up
-code: 200
-responseTime: 1208
-lastUpdated: 2024-08-28T23:10:03.621Z
+status: down
+code: 503
+responseTime: 936
+lastUpdated: 2024-08-29T09:27:19.355Z
 startTime: 2023-09-12T04:12:07.458Z
 generator: Upptime <https://github.com/upptime/upptime>
