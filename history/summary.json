@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.52%",
     "time": 2182,
-    "timeDay": 1172,
-    "timeWeek": 1315,
-    "timeMonth": 1334,
+    "timeDay": 1259,
+    "timeWeek": 1269,
+    "timeMonth": 1326,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2024-07-28": 292,
@@ -47,8 +47,7 @@
       "2023-11-27": 72,
       "2023-11-26": 668,
       "2023-11-02": 16,
-      "2023-10-07": 17,
-      "2023-09-26": 17
+      "2023-10-07": 17
     }
   },
   {
@@ -63,7 +62,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.53%",
     "time": 429,
-    "timeDay": 253,
+    "timeDay": 251,
     "timeWeek": 283,
     "timeMonth": 278,
     "timeYear": 396,
@@ -98,8 +97,7 @@
       "2023-11-27": 72,
       "2023-11-26": 668,
       "2023-11-02": 16,
-      "2023-10-07": 16,
-      "2023-09-26": 16
+      "2023-10-07": 16
     }
   },
   {
@@ -108,15 +106,15 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "95.26%",
     "time": 1828,
-    "timeDay": 1287,
-    "timeWeek": 1641,
-    "timeMonth": 1273,
+    "timeDay": 943,
+    "timeWeek": 1600,
+    "timeMonth": 1266,
     "timeYear": 1788,
     "dailyMinutesDown": {
       "2024-09-19": 49,
@@ -164,8 +162,7 @@
       "2023-11-27": 73,
       "2023-11-26": 667,
       "2023-11-02": 25,
-      "2023-10-07": 16,
-      "2023-09-26": 82
+      "2023-10-07": 16
     }
   },
   {
@@ -179,11 +176,11 @@
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.31%",
-    "time": 2374,
-    "timeDay": 1768,
-    "timeWeek": 2362,
-    "timeMonth": 1831,
-    "timeYear": 2336,
+    "time": 2368,
+    "timeDay": 1521,
+    "timeWeek": 2367,
+    "timeMonth": 1819,
+    "timeYear": 2327,
     "dailyMinutesDown": {
       "2024-09-18": 81,
       "2024-08-15": 60,
@@ -219,8 +216,7 @@
       "2023-11-27": 73,
       "2023-11-26": 667,
       "2023-11-02": 24,
-      "2023-10-07": 15,
-      "2023-09-26": 81
+      "2023-10-07": 15
     }
   },
   {
@@ -229,18 +225,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "62.05%",
+    "uptime": "61.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "52.92%",
-    "time": 2011,
+    "time": 2013,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2024-09-24": 80,
+      "2024-09-25": 81,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -438,8 +435,7 @@
       "2023-09-30": 1440,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
-      "2023-09-27": 1440,
-      "2023-09-26": 1440
+      "2023-09-27": 1440
     }
   },
   {
@@ -448,15 +444,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/remotelab.stis.ac.id.ico",
     "slug": "remotelab",
     "status": "up",
-    "uptime": "87.72%",
+    "uptime": "87.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.21%",
-    "time": 2260,
-    "timeDay": 1366,
-    "timeWeek": 1532,
-    "timeMonth": 1522,
+    "time": 2258,
+    "timeDay": 1490,
+    "timeWeek": 1525,
+    "timeMonth": 1518,
     "timeYear": 2280,
     "dailyMinutesDown": {
       "2024-08-19": 22,
@@ -555,8 +551,7 @@
       "2023-11-07": 15,
       "2023-10-14": 32,
       "2023-10-11": 35,
-      "2023-10-07": 16,
-      "2023-09-26": 50
+      "2023-10-07": 16
     }
   },
   {
@@ -565,16 +560,16 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
     "status": "up",
-    "uptime": "94.50%",
+    "uptime": "94.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.95%",
-    "time": 2258,
-    "timeDay": 1360,
-    "timeWeek": 1832,
-    "timeMonth": 1536,
-    "timeYear": 2248,
+    "time": 2257,
+    "timeDay": 920,
+    "timeWeek": 1800,
+    "timeMonth": 1510,
+    "timeYear": 2247,
     "dailyMinutesDown": {
       "2024-08-19": 22,
       "2024-07-28": 1314,
@@ -617,8 +612,7 @@
       "2023-12-05": 124,
       "2023-12-04": 630,
       "2023-10-14": 31,
-      "2023-10-11": 35,
-      "2023-09-26": 194
+      "2023-10-11": 35
     }
   },
   {
@@ -627,16 +621,16 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "94.01%",
-    "time": 2028,
-    "timeDay": 999,
-    "timeWeek": 1771,
-    "timeMonth": 1424,
-    "timeYear": 2065,
+    "time": 2027,
+    "timeDay": 1488,
+    "timeWeek": 1796,
+    "timeMonth": 1432,
+    "timeYear": 2064,
     "dailyMinutesDown": {
       "2024-09-06": 15,
       "2024-08-19": 21,
@@ -687,8 +681,7 @@
       "2023-10-14": 31,
       "2023-10-13": 21,
       "2023-10-11": 35,
-      "2023-09-30": 17,
-      "2023-09-26": 194
+      "2023-09-30": 17
     }
   },
   {
@@ -697,16 +690,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "95.46%",
+    "uptime": "95.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.29%",
-    "time": 2042,
-    "timeDay": 1636,
-    "timeWeek": 1893,
-    "timeMonth": 1423,
-    "timeYear": 1961,
+    "time": 2041,
+    "timeDay": 1378,
+    "timeWeek": 1878,
+    "timeMonth": 1414,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2024-07-28": 274,
       "2024-07-18": 22,
@@ -752,8 +745,7 @@
       "2023-11-26": 663,
       "2023-10-27": 331,
       "2023-10-14": 18,
-      "2023-09-27": 168,
-      "2023-09-26": 758
+      "2023-09-27": 168
     }
   },
   {
@@ -762,15 +754,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.stis.ac.id.ico",
     "slug": "link-shortener",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.41%",
-    "time": 1577,
-    "timeDay": 914,
-    "timeWeek": 1270,
-    "timeMonth": 1047,
+    "time": 1576,
+    "timeDay": 911,
+    "timeWeek": 1267,
+    "timeMonth": 1042,
     "timeYear": 1462,
     "dailyMinutesDown": {
       "2024-09-18": 83,
@@ -801,8 +793,7 @@
       "2023-12-09": 486,
       "2023-11-27": 2,
       "2023-11-26": 662,
-      "2023-10-14": 30,
-      "2023-09-26": 50
+      "2023-10-14": 30
     }
   },
   {
@@ -816,11 +807,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.29%",
-    "time": 4432,
-    "timeDay": 3583,
-    "timeWeek": 4478,
-    "timeMonth": 5054,
-    "timeYear": 4148,
+    "time": 4429,
+    "timeDay": 3196,
+    "timeWeek": 4143,
+    "timeMonth": 4968,
+    "timeYear": 4142,
     "dailyMinutesDown": {
       "2024-08-19": 21,
       "2024-07-28": 273,
@@ -863,18 +854,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "43.01%",
+    "uptime": "42.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.75%",
+    "uptimeYear": "30.48%",
     "time": 6857,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 6545,
+    "timeYear": 6552,
     "dailyMinutesDown": {
-      "2024-09-24": 81,
+      "2024-09-25": 82,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -1138,8 +1130,7 @@
       "2023-10-27": 40,
       "2023-10-14": 29,
       "2023-10-11": 35,
-      "2023-09-27": 168,
-      "2023-09-26": 742
+      "2023-09-27": 168
     }
   },
   {
@@ -1148,16 +1139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stis.ac.id.ico",
     "slug": "profil-dosen-stis",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.62%",
-    "time": 1446,
-    "timeDay": 1149,
-    "timeWeek": 1150,
-    "timeMonth": 1120,
-    "timeYear": 1455,
+    "time": 1445,
+    "timeDay": 1152,
+    "timeWeek": 1146,
+    "timeMonth": 1118,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2024-08-19": 21,
       "2024-07-28": 273,
@@ -1209,8 +1200,7 @@
       "2023-11-26": 660,
       "2023-10-27": 39,
       "2023-10-14": 18,
-      "2023-09-27": 168,
-      "2023-09-26": 766
+      "2023-09-27": 168
     }
   },
   {
@@ -1224,11 +1214,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "98.15%",
-    "time": 3718,
-    "timeDay": 3153,
-    "timeWeek": 4555,
-    "timeMonth": 3313,
-    "timeYear": 3683,
+    "time": 3716,
+    "timeDay": 2715,
+    "timeWeek": 4548,
+    "timeMonth": 3281,
+    "timeYear": 3682,
     "dailyMinutesDown": {
       "2024-08-30": 218,
       "2024-08-29": 873,
@@ -1258,8 +1248,7 @@
       "2023-12-05": 124,
       "2023-12-04": 630,
       "2023-10-14": 29,
-      "2023-10-11": 35,
-      "2023-09-26": 206
+      "2023-10-11": 35
     }
   },
   {
@@ -1268,16 +1257,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.94%",
-    "time": 3147,
-    "timeDay": 2461,
-    "timeWeek": 3063,
-    "timeMonth": 2573,
-    "timeYear": 3136,
+    "time": 3145,
+    "timeDay": 2445,
+    "timeWeek": 3059,
+    "timeMonth": 2576,
+    "timeYear": 3135,
     "dailyMinutesDown": {
       "2024-07-28": 273,
       "2024-07-18": 20,
@@ -1325,8 +1314,7 @@
       "2023-12-09": 549,
       "2023-11-27": 4,
       "2023-11-26": 660,
-      "2023-10-14": 28,
-      "2023-09-26": 205
+      "2023-10-14": 28
     }
   },
   {
@@ -1335,18 +1323,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.stis.ac.id.ico",
     "slug": "sister-politeknik-statistika-stis",
     "status": "down",
-    "uptime": "26.51%",
+    "uptime": "26.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.85%",
-    "time": 2104,
-    "timeDay": 915,
-    "timeWeek": 1789,
-    "timeMonth": 1350,
-    "timeYear": 1870,
+    "uptimeYear": "16.57%",
+    "time": 2100,
+    "timeDay": 1135,
+    "timeWeek": 1783,
+    "timeMonth": 1347,
+    "timeYear": 1864,
     "dailyMinutesDown": {
-      "2024-09-24": 81,
+      "2024-09-25": 82,
+      "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
@@ -1652,8 +1641,7 @@
       "2023-11-26": 660,
       "2023-10-14": 462,
       "2023-10-11": 35,
-      "2023-09-27": 168,
-      "2023-09-26": 764
+      "2023-09-27": 168
     }
   },
   {
@@ -1662,16 +1650,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alumni.stis.ac.id.ico",
     "slug": "web-alumni-stis",
     "status": "up",
-    "uptime": "92.91%",
+    "uptime": "92.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "92.66%",
-    "time": 1833,
-    "timeDay": 1175,
-    "timeWeek": 1957,
-    "timeMonth": 1552,
-    "timeYear": 1835,
+    "time": 1832,
+    "timeDay": 1186,
+    "timeWeek": 1921,
+    "timeMonth": 1546,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2024-08-30": 206,
       "2024-08-29": 873,
@@ -1720,8 +1708,7 @@
       "2023-11-26": 659,
       "2023-10-14": 28,
       "2023-10-11": 35,
-      "2023-09-27": 168,
-      "2023-09-26": 739
+      "2023-09-27": 168
     }
   }
 ]
