@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.11%",
-    "time": 1966,
-    "timeDay": 1262,
-    "timeWeek": 1367,
-    "timeMonth": 1372,
-    "timeYear": 1952,
+    "time": 1964,
+    "timeDay": 1155,
+    "timeWeek": 1344,
+    "timeMonth": 1363,
+    "timeYear": 1951,
     "dailyMinutesDown": {
       "2025-01-29": 17,
       "2025-01-06": 140,
@@ -44,8 +44,7 @@
       "2024-02-16": 46,
       "2024-02-14": 34,
       "2024-02-12": 35,
-      "2024-02-02": 60,
-      "2024-02-01": 232
+      "2024-02-02": 60
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.39%",
     "time": 362,
-    "timeDay": 336,
-    "timeWeek": 309,
-    "timeMonth": 269,
+    "timeDay": 334,
+    "timeWeek": 305,
+    "timeMonth": 268,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-01-29": 16,
@@ -89,8 +88,7 @@
       "2024-02-16": 46,
       "2024-02-14": 16,
       "2024-02-12": 35,
-      "2024-02-02": 60,
-      "2024-02-01": 231
+      "2024-02-02": 60
     }
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.30%",
-    "time": 1630,
-    "timeDay": 1030,
-    "timeWeek": 1211,
-    "timeMonth": 1146,
-    "timeYear": 1647,
+    "time": 1629,
+    "timeDay": 769,
+    "timeWeek": 1184,
+    "timeMonth": 1137,
+    "timeYear": 1646,
     "dailyMinutesDown": {
       "2024-12-29": 18,
       "2024-10-30": 74,
@@ -150,8 +148,7 @@
       "2024-02-16": 46,
       "2024-02-14": 71,
       "2024-02-12": 33,
-      "2024-02-02": 111,
-      "2024-02-01": 231
+      "2024-02-02": 111
     }
   },
   {
@@ -165,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 2138,
-    "timeDay": 1173,
-    "timeWeek": 1501,
-    "timeMonth": 1543,
-    "timeYear": 2087,
+    "time": 2137,
+    "timeDay": 1303,
+    "timeWeek": 1421,
+    "timeMonth": 1536,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2024-10-30": 73,
       "2024-10-22": 108,
@@ -199,8 +196,7 @@
       "2024-02-16": 46,
       "2024-02-14": 40,
       "2024-02-12": 33,
-      "2024-02-02": 111,
-      "2024-02-01": 230
+      "2024-02-02": 111
     }
   },
   {
@@ -209,16 +205,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "up",
-    "uptime": "66.71%",
+    "uptime": "66.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "73.75%",
-    "time": 1812,
-    "timeDay": 1159,
-    "timeWeek": 1323,
-    "timeMonth": 1298,
-    "timeYear": 1814,
+    "time": 1810,
+    "timeDay": 1053,
+    "timeWeek": 1302,
+    "timeMonth": 1292,
+    "timeYear": 1813,
     "dailyMinutesDown": {
       "2025-01-29": 16,
       "2024-12-30": 131,
@@ -342,8 +338,7 @@
       "2024-02-05": 401,
       "2024-02-04": 1440,
       "2024-02-03": 666,
-      "2024-02-02": 111,
-      "2024-02-01": 229
+      "2024-02-02": 111
     }
   },
   {
@@ -357,11 +352,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "87.07%",
-    "time": 2126,
-    "timeDay": 1181,
-    "timeWeek": 1370,
-    "timeMonth": 1509,
-    "timeYear": 2089,
+    "time": 2125,
+    "timeDay": 1351,
+    "timeWeek": 1361,
+    "timeMonth": 1501,
+    "timeYear": 2087,
     "dailyMinutesDown": {
       "2025-01-29": 15,
       "2024-10-30": 72,
@@ -436,8 +431,7 @@
       "2024-02-05": 394,
       "2024-02-04": 1440,
       "2024-02-03": 665,
-      "2024-02-02": 63,
-      "2024-02-01": 227
+      "2024-02-02": 63
     }
   },
   {
@@ -446,16 +440,16 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "94.92%",
     "time": 2060,
-    "timeDay": 1567,
-    "timeWeek": 1456,
-    "timeMonth": 1427,
-    "timeYear": 2072,
+    "timeDay": 1502,
+    "timeWeek": 1391,
+    "timeMonth": 1417,
+    "timeYear": 2057,
     "dailyMinutesDown": {
       "2025-01-29": 15,
       "2024-10-30": 72,
@@ -492,8 +486,7 @@
       "2024-02-16": 46,
       "2024-02-14": 37,
       "2024-02-12": 15,
-      "2024-02-02": 63,
-      "2024-02-01": 227
+      "2024-02-02": 63
     }
   },
   {
@@ -507,11 +500,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.96%",
-    "time": 1931,
-    "timeDay": 1190,
-    "timeWeek": 1424,
-    "timeMonth": 1436,
-    "timeYear": 1913,
+    "time": 1928,
+    "timeDay": 1058,
+    "timeWeek": 1410,
+    "timeMonth": 1430,
+    "timeYear": 1910,
     "dailyMinutesDown": {
       "2025-01-29": 18,
       "2025-01-25": 17,
@@ -557,8 +550,7 @@
       "2024-02-17": 27,
       "2024-02-16": 46,
       "2024-02-14": 340,
-      "2024-02-02": 63,
-      "2024-02-01": 227
+      "2024-02-02": 63
     }
   },
   {
@@ -572,11 +564,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.30%",
-    "time": 1818,
-    "timeDay": 1058,
-    "timeWeek": 1429,
-    "timeMonth": 1358,
-    "timeYear": 1810,
+    "time": 1817,
+    "timeDay": 1079,
+    "timeWeek": 1382,
+    "timeMonth": 1352,
+    "timeYear": 1807,
     "dailyMinutesDown": {
       "2024-12-30": 131,
       "2024-12-29": 390,
@@ -618,8 +610,7 @@
       "2024-02-16": 46,
       "2024-02-14": 20,
       "2024-02-05": 32,
-      "2024-02-02": 112,
-      "2024-02-01": 226
+      "2024-02-02": 112
     }
   },
   {
@@ -634,10 +625,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1355,
-    "timeDay": 2711,
-    "timeWeek": 1169,
-    "timeMonth": 1024,
-    "timeYear": 1395,
+    "timeDay": 766,
+    "timeWeek": 1149,
+    "timeMonth": 1018,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2024-10-30": 71,
       "2024-10-22": 100,
@@ -663,8 +654,7 @@
       "2024-02-17": 26,
       "2024-02-16": 46,
       "2024-02-14": 20,
-      "2024-02-02": 112,
-      "2024-02-01": 226
+      "2024-02-02": 112
     }
   },
   {
@@ -674,15 +664,15 @@
     "slug": "jurnal-asks",
     "status": "up",
     "uptime": "96.28%",
-    "uptimeDay": "33.14%",
-    "uptimeWeek": "4.73%",
+    "uptimeDay": "72.01%",
+    "uptimeWeek": "10.29%",
     "uptimeMonth": "66.46%",
     "uptimeYear": "96.51%",
-    "time": 3871,
-    "timeDay": 1865,
-    "timeWeek": 1741,
-    "timeMonth": 2950,
-    "timeYear": 3839,
+    "time": 3870,
+    "timeDay": 1885,
+    "timeWeek": 1759,
+    "timeMonth": 2926,
+    "timeYear": 3835,
     "dailyMinutesDown": {
       "2025-01-30": 483,
       "2025-01-29": 1440,
@@ -728,18 +718,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "33.56%",
+    "uptime": "33.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.71%",
-    "time": 6538,
+    "time": 6542,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 6873,
+    "timeYear": 6933,
     "dailyMinutesDown": {
-      "2025-01-30": 960,
+      "2025-01-31": 79,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1077,8 +1068,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1092,10 +1082,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.27%",
-    "time": 1397,
-    "timeDay": 950,
-    "timeWeek": 1101,
-    "timeMonth": 1148,
+    "time": 1396,
+    "timeDay": 947,
+    "timeWeek": 1081,
+    "timeMonth": 1143,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2024-10-31": 29,
@@ -1141,8 +1131,7 @@
       "2024-02-23": 815,
       "2024-02-16": 48,
       "2024-02-14": 19,
-      "2024-02-02": 66,
-      "2024-02-01": 224
+      "2024-02-02": 66
     }
   },
   {
@@ -1157,10 +1146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 3548,
-    "timeDay": 2892,
-    "timeWeek": 2965,
-    "timeMonth": 3236,
-    "timeYear": 3545,
+    "timeDay": 2872,
+    "timeWeek": 2940,
+    "timeMonth": 3220,
+    "timeYear": 3544,
     "dailyMinutesDown": {
       "2024-12-09": 56,
       "2024-12-08": 438,
@@ -1187,8 +1176,7 @@
       "2024-02-23": 809,
       "2024-02-16": 48,
       "2024-02-14": 18,
-      "2024-02-02": 66,
-      "2024-02-01": 224
+      "2024-02-02": 66
     }
   },
   {
@@ -1202,11 +1190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.58%",
-    "time": 2933,
-    "timeDay": 2143,
-    "timeWeek": 2385,
-    "timeMonth": 2432,
-    "timeYear": 2864,
+    "time": 2931,
+    "timeDay": 2108,
+    "timeWeek": 2340,
+    "timeMonth": 2422,
+    "timeYear": 2863,
     "dailyMinutesDown": {
       "2024-12-30": 133,
       "2024-12-29": 386,
@@ -1253,8 +1241,7 @@
       "2024-02-16": 48,
       "2024-02-14": 18,
       "2024-02-05": 48,
-      "2024-02-02": 113,
-      "2024-02-01": 223
+      "2024-02-02": 113
     }
   },
   {
@@ -1263,18 +1250,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.stis.ac.id.ico",
     "slug": "sister-politeknik-statistika-stis",
     "status": "down",
-    "uptime": "20.21%",
+    "uptime": "20.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1608,
-    "timeDay": 1020,
-    "timeWeek": 1045,
+    "time": 1606,
+    "timeDay": 950,
+    "timeWeek": 1049,
     "timeMonth": 1083,
-    "timeYear": 1274,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2025-01-30": 960,
+      "2025-01-31": 80,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1637,8 +1625,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1653,10 +1640,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.02%",
     "time": 1711,
-    "timeDay": 1278,
-    "timeWeek": 1474,
-    "timeMonth": 1383,
-    "timeYear": 1750,
+    "timeDay": 1222,
+    "timeWeek": 1437,
+    "timeMonth": 1379,
+    "timeYear": 1748,
     "dailyMinutesDown": {
       "2024-12-30": 133,
       "2024-12-29": 386,
@@ -1682,8 +1669,7 @@
       "2024-02-23": 808,
       "2024-02-16": 48,
       "2024-02-14": 17,
-      "2024-02-02": 67,
-      "2024-02-01": 223
+      "2024-02-02": 67
     }
   }
 ]
