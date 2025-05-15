@@ -1,7 +1,7 @@
 url: https://stis.ac.id/sipadu/mahasiswa/index.php/login/index
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2025-05-15T05:26:33.825Z
+status: down
+code: 500
+responseTime: 297
+lastUpdated: 2025-05-15T07:29:18.777Z
 startTime: 2023-01-05T07:23:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
