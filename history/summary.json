@@ -6,7 +6,7 @@
     "slug": "web-stis",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "67.98%",
+    "uptimeDay": "68.64%",
     "uptimeWeek": "90.91%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "98.74%",
@@ -69,8 +69,8 @@
     "slug": "sipadu-old",
     "status": "up",
     "uptime": "97.14%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "57.64%",
+    "uptimeDay": "70.99%",
+    "uptimeWeek": "57.73%",
     "uptimeMonth": "65.54%",
     "uptimeYear": "95.84%",
     "time": 428,
@@ -181,7 +181,7 @@
     "status": "up",
     "uptime": "97.17%",
     "uptimeDay": "89.10%",
-    "uptimeWeek": "64.64%",
+    "uptimeWeek": "64.74%",
     "uptimeMonth": "67.25%",
     "uptimeYear": "96.93%",
     "time": 2078,
@@ -229,14 +229,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.53%",
+    "uptimeYear": "54.52%",
     "time": 1780,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-05-23": 1437,
+      "2025-05-24": 7,
+      "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -427,7 +428,7 @@
     "slug": "remotelab",
     "status": "up",
     "uptime": "89.78%",
-    "uptimeDay": "68.79%",
+    "uptimeDay": "69.45%",
     "uptimeWeek": "81.52%",
     "uptimeMonth": "77.11%",
     "uptimeYear": "91.35%",
@@ -510,9 +511,9 @@
     "slug": "simpus",
     "status": "down",
     "uptime": "95.87%",
-    "uptimeDay": "47.83%",
-    "uptimeWeek": "92.09%",
-    "uptimeMonth": "98.18%",
+    "uptimeDay": "47.17%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "95.37%",
     "time": 2057,
     "timeDay": 11233,
@@ -520,7 +521,8 @@
     "timeMonth": 3557,
     "timeYear": 1668,
     "dailyMinutesDown": {
-      "2025-05-23": 751,
+      "2025-05-24": 7,
+      "2025-05-23": 754,
       "2025-05-22": 46,
       "2025-03-14": 19,
       "2025-02-24": 50,
@@ -549,8 +551,7 @@
       "2024-05-28": 923,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -558,11 +559,11 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.45%",
-    "uptimeDay": "52.33%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "98.35%",
+    "uptimeDay": "52.72%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "95.26%",
     "time": 1975,
     "timeDay": 14002,
@@ -570,7 +571,8 @@
     "timeMonth": 3996,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2025-05-23": 687,
+      "2025-05-24": 3,
+      "2025-05-23": 679,
       "2025-05-22": 36,
       "2025-02-24": 50,
       "2025-02-16": 88,
@@ -688,7 +690,7 @@
     "slug": "jurnal-asks",
     "status": "up",
     "uptime": "96.83%",
-    "uptimeDay": "51.73%",
+    "uptimeDay": "52.39%",
     "uptimeWeek": "88.63%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "96.15%",
@@ -769,7 +771,8 @@
     "timeMonth": 1123,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-05-23": 1438,
+      "2025-05-24": 7,
+      "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -1132,8 +1135,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -1143,7 +1145,7 @@
     "slug": "profil-dosen-stis",
     "status": "up",
     "uptime": "94.22%",
-    "uptimeDay": "67.26%",
+    "uptimeDay": "67.92%",
     "uptimeWeek": "90.87%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "98.23%",
@@ -1199,10 +1201,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/prosiding.stis.ac.id.ico",
     "slug": "prosiding-semnas",
     "status": "down",
-    "uptime": "98.55%",
+    "uptime": "98.54%",
     "uptimeDay": "10.76%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "95.65%",
+    "uptimeWeek": "81.61%",
+    "uptimeMonth": "95.63%",
     "uptimeYear": "98.94%",
     "time": 3506,
     "timeDay": 5059,
@@ -1210,7 +1212,8 @@
     "timeMonth": 3590,
     "timeYear": 3256,
     "dailyMinutesDown": {
-      "2025-05-23": 1283,
+      "2025-05-24": 7,
+      "2025-05-23": 1286,
       "2025-05-22": 264,
       "2025-05-21": 91,
       "2025-05-20": 206,
@@ -1316,7 +1319,8 @@
     "timeMonth": 0,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2025-05-23": 1438,
+      "2025-05-24": 7,
+      "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -1679,8 +1683,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -1690,7 +1693,7 @@
     "slug": "web-alumni-stis",
     "status": "up",
     "uptime": "95.24%",
-    "uptimeDay": "67.44%",
+    "uptimeDay": "68.09%",
     "uptimeWeek": "81.38%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "98.16%",
@@ -1732,8 +1735,7 @@
       "2024-06-12": 39,
       "2024-05-28": 20,
       "2024-05-26": 1411,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   }
 ]
