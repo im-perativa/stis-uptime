@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-12": 588,
+      "2025-08-12": 618,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -536,7 +536,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "95.75%",
+    "uptimeYear": "95.76%",
     "time": 1697,
     "timeDay": 1751,
     "timeWeek": 1511,
@@ -968,7 +968,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-12": 588,
+      "2025-08-12": 618,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -1443,19 +1443,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.39%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.27%",
-    "time": 3283,
+    "uptimeYear": "99.40%",
+    "time": 3284,
     "timeDay": 3832,
     "timeWeek": 3647,
     "timeMonth": 3847,
     "timeYear": 3376,
     "dailyMinutesDown": {
-      "2025-08-12": 29,
+      "2025-08-12": 30,
       "2025-08-08": 33,
       "2025-08-02": 17,
       "2025-08-01": 66,
@@ -1498,9 +1498,7 @@
       "2025-05-29": 104,
       "2025-05-28": 44,
       "2025-05-27": 48,
-      "2025-05-26": 53,
-      "2025-05-25": 603,
-      "2025-05-24": 77
+      "2025-05-26": 53
     }
   },
   {
@@ -1520,7 +1518,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-12": 588,
+      "2025-08-12": 618,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
