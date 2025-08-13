@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stis.ac.id.ico",
     "slug": "web-stis",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -131,7 +131,7 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.20%",
     "time": 1451,
-    "timeDay": 1431,
+    "timeDay": 1347,
     "timeWeek": 1310,
     "timeMonth": 1411,
     "timeYear": 1357,
@@ -201,7 +201,7 @@
     "uptimeMonth": "99.26%",
     "uptimeYear": "96.59%",
     "time": 1954,
-    "timeDay": 1849,
+    "timeDay": 1900,
     "timeWeek": 1887,
     "timeMonth": 2008,
     "timeYear": 1866,
@@ -271,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "54.79%",
+    "uptime": "54.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -282,7 +282,8 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-12": 1391,
+      "2025-08-13": 106,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -522,8 +523,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
@@ -536,7 +536,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "95.93%",
     "time": 1688,
     "timeDay": 1563,
     "timeWeek": 1468,
@@ -587,8 +587,7 @@
       "2024-08-19": 22,
       "2024-08-16": 73,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
@@ -597,18 +596,17 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "98.96%",
     "time": 1862,
     "timeDay": 1981,
     "timeWeek": 1675,
     "timeMonth": 1798,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2025-08-12": 13,
       "2025-08-10": 16,
       "2025-07-26": 20,
       "2025-07-17": 82,
@@ -660,7 +658,9 @@
       "2025-02-08": 17,
       "2025-01-29": 15,
       "2024-10-30": 72,
-      "2024-10-22": 107
+      "2024-10-22": 107,
+      "2024-09-26": 74,
+      "2024-09-25": 768
     }
   },
   {
@@ -732,12 +732,12 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "92.22%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "98.98%",
     "time": 1781,
-    "timeDay": 1871,
+    "timeDay": 1933,
     "timeWeek": 1778,
     "timeMonth": 1899,
     "timeYear": 1758,
@@ -967,7 +967,8 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-12": 1392,
+      "2025-08-13": 106,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -1330,8 +1331,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
@@ -1452,7 +1452,7 @@
     "timeDay": 3704,
     "timeWeek": 3619,
     "timeMonth": 3829,
-    "timeYear": 3378,
+    "timeYear": 3379,
     "dailyMinutesDown": {
       "2025-08-12": 131,
       "2025-08-08": 33,
@@ -1506,7 +1506,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.stis.ac.id.ico",
     "slug": "sister-politeknik-statistika-stis",
     "status": "down",
-    "uptime": "14.88%",
+    "uptime": "14.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1517,7 +1517,8 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-12": 1392,
+      "2025-08-13": 107,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -1880,8 +1881,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
