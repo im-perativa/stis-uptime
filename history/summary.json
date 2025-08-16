@@ -134,7 +134,7 @@
     "timeDay": 1425,
     "timeWeek": 1440,
     "timeMonth": 1408,
-    "timeYear": 1359,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-08-15": 18,
       "2025-08-14": 28,
@@ -271,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "54.61%",
+    "uptime": "54.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-16": 102,
+      "2025-08-16": 222,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -541,7 +541,7 @@
     "timeDay": 1723,
     "timeWeek": 1593,
     "timeMonth": 1543,
-    "timeYear": 1588,
+    "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-07-23": 21,
       "2025-05-26": 86,
@@ -965,7 +965,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-16": 102,
+      "2025-08-16": 222,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -1440,18 +1440,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.69%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.39%",
-    "time": 3264,
+    "time": 3265,
     "timeDay": 3749,
     "timeWeek": 3763,
     "timeMonth": 3833,
     "timeYear": 3386,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-08-12": 131,
       "2025-08-08": 33,
       "2025-08-02": 17,
@@ -1494,8 +1495,7 @@
       "2025-05-30": 38,
       "2025-05-29": 104,
       "2025-05-28": 44,
-      "2025-05-27": 48,
-      "2025-05-26": 15
+      "2025-05-27": 48
     }
   },
   {
@@ -1515,7 +1515,7 @@
     "timeMonth": 0,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2025-08-16": 102,
+      "2025-08-16": 222,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
