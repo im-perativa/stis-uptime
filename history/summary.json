@@ -125,18 +125,17 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.30%",
     "time": 1359,
     "timeDay": 1338,
     "timeWeek": 1435,
     "timeMonth": 1408,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2025-08-20": 12,
       "2025-08-19": 65,
       "2025-08-18": 21,
       "2025-08-17": 19,
@@ -187,7 +186,8 @@
       "2025-05-28": 51,
       "2025-05-27": 25,
       "2025-05-26": 42,
-      "2025-05-25": 270
+      "2025-05-25": 601,
+      "2025-05-24": 85
     }
   },
   {
@@ -197,9 +197,9 @@
     "slug": "sipadu-o-auth",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.32%",
     "time": 1853,
     "timeDay": 1767,
@@ -207,7 +207,6 @@
     "timeMonth": 1890,
     "timeYear": 1864,
     "dailyMinutesDown": {
-      "2025-08-20": 12,
       "2025-08-19": 64,
       "2025-08-18": 20,
       "2025-08-17": 38,
@@ -254,7 +253,8 @@
       "2025-05-27": 24,
       "2025-05-26": 42,
       "2025-05-25": 659,
-      "2025-05-24": 314
+      "2025-05-24": 314,
+      "2025-05-23": 22
     }
   },
   {
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-20": 1170,
+      "2025-08-20": 1179,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -585,9 +585,9 @@
     "slug": "simpus",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.14%",
     "time": 1779,
     "timeDay": 1766,
@@ -595,7 +595,6 @@
     "timeMonth": 1839,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2025-08-20": 12,
       "2025-08-19": 63,
       "2025-08-18": 20,
       "2025-08-17": 18,
@@ -645,7 +644,8 @@
       "2025-05-22": 46,
       "2025-03-14": 19,
       "2025-02-24": 50,
-      "2025-02-16": 88
+      "2025-02-16": 88,
+      "2025-02-13": 17
     }
   },
   {
@@ -653,19 +653,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.25%",
-    "time": 1843,
-    "timeDay": 1693,
-    "timeWeek": 1881,
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.24%",
+    "time": 1844,
+    "timeDay": 1713,
+    "timeWeek": 1874,
     "timeMonth": 1768,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2025-08-20": 14,
+      "2025-08-20": 21,
       "2025-08-19": 61,
       "2025-08-18": 19,
       "2025-08-17": 18,
@@ -720,18 +720,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.26%",
     "time": 1726,
     "timeDay": 1940,
     "timeWeek": 2233,
     "timeMonth": 2020,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2025-08-20": 11,
       "2025-08-19": 60,
       "2025-08-18": 19,
       "2025-08-17": 17,
@@ -780,7 +779,8 @@
       "2025-05-26": 38,
       "2025-05-25": 611,
       "2025-05-24": 347,
-      "2025-05-23": 169
+      "2025-05-23": 169,
+      "2025-02-16": 163
     }
   },
   {
@@ -790,9 +790,9 @@
     "slug": "link-shortener",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.09%",
     "time": 1235,
     "timeDay": 1335,
@@ -800,7 +800,6 @@
     "timeMonth": 1317,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-08-20": 11,
       "2025-08-19": 58,
       "2025-08-18": 18,
       "2025-08-17": 17,
@@ -867,17 +866,16 @@
     "slug": "jurnal-asks",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.82%",
     "time": 3624,
     "timeDay": 3586,
     "timeWeek": 3546,
     "timeMonth": 3727,
     "timeYear": 3550,
     "dailyMinutesDown": {
-      "2025-08-20": 10,
       "2025-08-19": 57,
       "2025-08-18": 18,
       "2025-08-17": 34,
@@ -935,7 +933,8 @@
       "2025-03-11": 26,
       "2025-03-07": 33,
       "2025-03-01": 1046,
-      "2025-02-28": 629
+      "2025-02-28": 629,
+      "2025-02-26": 79
     }
   },
   {
@@ -955,7 +954,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-20": 1170,
+      "2025-08-20": 1179,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -1432,9 +1431,9 @@
     "slug": "prosiding-internasional-icdsos",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.39%",
     "time": 3372,
     "timeDay": 3528,
@@ -1442,7 +1441,6 @@
     "timeMonth": 3670,
     "timeYear": 3399,
     "dailyMinutesDown": {
-      "2025-08-20": 10,
       "2025-08-19": 40,
       "2025-08-18": 18,
       "2025-08-17": 16,
@@ -1487,7 +1485,7 @@
       "2025-06-02": 31,
       "2025-06-01": 32,
       "2025-05-30": 38,
-      "2025-05-29": 66
+      "2025-05-29": 104
     }
   },
   {
@@ -1507,7 +1505,7 @@
     "timeMonth": 0,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2025-08-20": 1170,
+      "2025-08-20": 1179,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
