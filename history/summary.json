@@ -124,18 +124,19 @@
     "url": "https://ws.sipadu.stis.ac.id/login",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.42%",
     "time": 1523,
     "timeDay": 1509,
-    "timeWeek": 1466,
+    "timeWeek": 1458,
     "timeMonth": 1422,
     "timeYear": 1369,
     "dailyMinutesDown": {
+      "2025-08-24": 2,
       "2025-08-23": 39,
       "2025-08-22": 17,
       "2025-08-20": 16,
@@ -187,8 +188,7 @@
       "2025-05-30": 41,
       "2025-05-29": 116,
       "2025-05-28": 51,
-      "2025-05-27": 25,
-      "2025-05-26": 18
+      "2025-05-27": 25
     }
   },
   {
@@ -204,7 +204,7 @@
     "uptimeYear": "99.43%",
     "time": 1988,
     "timeDay": 1922,
-    "timeWeek": 1907,
+    "timeWeek": 1917,
     "timeMonth": 1911,
     "timeYear": 1870,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "54.13%",
+    "uptime": "54.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-24": 648,
+      "2025-08-24": 884,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -526,7 +526,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/remotelab.stis.ac.id.ico",
     "slug": "remotelab",
     "status": "up",
-    "uptime": "90.75%",
+    "uptime": "90.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -593,7 +593,7 @@
     "uptimeYear": "99.16%",
     "time": 1946,
     "timeDay": 1914,
-    "timeWeek": 1874,
+    "timeWeek": 1864,
     "timeMonth": 1841,
     "timeYear": 1826,
     "dailyMinutesDown": {
@@ -662,7 +662,7 @@
     "uptimeYear": "99.42%",
     "time": 1779,
     "timeDay": 1705,
-    "timeWeek": 1935,
+    "timeWeek": 1958,
     "timeMonth": 1790,
     "timeYear": 1840,
     "dailyMinutesDown": {
@@ -724,17 +724,16 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.29%",
     "time": 1847,
     "timeDay": 1911,
-    "timeWeek": 2102,
+    "timeWeek": 1928,
     "timeMonth": 1995,
     "timeYear": 1787,
     "dailyMinutesDown": {
-      "2025-08-24": 8,
       "2025-08-23": 22,
       "2025-08-19": 60,
       "2025-08-18": 19,
@@ -784,7 +783,7 @@
       "2025-05-26": 38,
       "2025-05-25": 611,
       "2025-05-24": 347,
-      "2025-05-23": 107
+      "2025-05-23": 169
     }
   },
   {
@@ -800,7 +799,7 @@
     "uptimeYear": "99.09%",
     "time": 1334,
     "timeDay": 1362,
-    "timeWeek": 1424,
+    "timeWeek": 1426,
     "timeMonth": 1354,
     "timeYear": 1226,
     "dailyMinutesDown": {
@@ -878,7 +877,7 @@
     "uptimeYear": "99.15%",
     "time": 3703,
     "timeDay": 3498,
-    "timeWeek": 3500,
+    "timeWeek": 3479,
     "timeMonth": 3676,
     "timeYear": 3534,
     "dailyMinutesDown": {
@@ -948,7 +947,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "24.83%",
+    "uptime": "24.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -959,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-24": 648,
+      "2025-08-24": 884,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -1442,7 +1441,7 @@
     "uptimeYear": "99.39%",
     "time": 3349,
     "timeDay": 3477,
-    "timeWeek": 3567,
+    "timeWeek": 3543,
     "timeMonth": 3650,
     "timeYear": 3410,
     "dailyMinutesDown": {
@@ -1500,7 +1499,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.stis.ac.id.ico",
     "slug": "sister-politeknik-statistika-stis",
     "status": "down",
-    "uptime": "14.65%",
+    "uptime": "14.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1511,7 +1510,7 @@
     "timeMonth": 0,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2025-08-24": 649,
+      "2025-08-24": 884,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
