@@ -126,9 +126,9 @@
     "slug": "sipadu-ng",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.42%",
     "time": 1433,
     "timeDay": 1271,
@@ -136,7 +136,6 @@
     "timeMonth": 1441,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2025-08-28": 8,
       "2025-08-26": 108,
       "2025-08-25": 48,
       "2025-08-23": 39,
@@ -188,7 +187,7 @@
       "2025-06-02": 39,
       "2025-05-31": 32,
       "2025-05-30": 41,
-      "2025-05-29": 28
+      "2025-05-29": 48
     }
   },
   {
@@ -275,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-28": 481,
+      "2025-08-28": 597,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -655,18 +654,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "97.18%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "97.15%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.42%",
-    "time": 1887,
+    "time": 1883,
     "timeDay": 1436,
     "timeWeek": 1712,
     "timeMonth": 1751,
     "timeYear": 1835,
     "dailyMinutesDown": {
+      "2025-08-28": 2,
       "2025-08-27": 26,
       "2025-08-26": 104,
       "2025-08-25": 66,
@@ -715,7 +715,7 @@
       "2025-06-03": 57,
       "2025-06-02": 36,
       "2025-05-30": 40,
-      "2025-05-29": 46
+      "2025-05-29": 27
     }
   },
   {
@@ -950,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-28": 482,
+      "2025-08-28": 597,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -1500,7 +1500,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-08-28": 482,
+      "2025-08-28": 598,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
