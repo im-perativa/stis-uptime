@@ -278,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-01": 526,
+      "2025-09-01": 582,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -726,10 +726,10 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "96.60%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.46%",
     "time": 1747,
@@ -738,7 +738,7 @@
     "timeMonth": 1966,
     "timeYear": 1804,
     "dailyMinutesDown": {
-      "2025-09-01": 31,
+      "2025-09-01": 34,
       "2025-08-31": 18,
       "2025-08-30": 39,
       "2025-08-27": 16,
@@ -787,8 +787,7 @@
       "2025-06-03": 57,
       "2025-06-02": 35,
       "2025-05-30": 104,
-      "2025-05-29": 109,
-      "2025-05-28": 17
+      "2025-05-29": 109
     }
   },
   {
@@ -875,12 +874,12 @@
     "uptime": "99.73%",
     "uptimeDay": "87.09%",
     "uptimeWeek": "95.14%",
-    "uptimeMonth": "98.26%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "99.28%",
     "time": 3702,
     "timeDay": 3496,
     "timeWeek": 3588,
-    "timeMonth": 3639,
+    "timeMonth": 3621,
     "timeYear": 3516,
     "dailyMinutesDown": {
       "2025-09-01": 186,
@@ -951,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-01": 526,
+      "2025-09-01": 582,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -1500,7 +1499,7 @@
     "timeMonth": 0,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-09-01": 527,
+      "2025-09-01": 583,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
