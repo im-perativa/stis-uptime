@@ -204,7 +204,7 @@
     "uptimeMonth": "98.19%",
     "uptimeYear": "99.49%",
     "time": 1860,
-    "timeDay": 1874,
+    "timeDay": 2017,
     "timeWeek": 1992,
     "timeMonth": 1964,
     "timeYear": 1888,
@@ -277,7 +277,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-05": 420,
+      "2025-09-05": 601,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -586,19 +586,19 @@
     "url": "https://simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "96.64%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "96.61%",
     "uptimeMonth": "98.05%",
     "uptimeYear": "99.46%",
-    "time": 1925,
+    "time": 1926,
     "timeDay": 1855,
     "timeWeek": 1807,
     "timeMonth": 1846,
     "timeYear": 1835,
     "dailyMinutesDown": {
-      "2025-09-05": 17,
+      "2025-09-05": 20,
       "2025-09-04": 96,
       "2025-09-03": 63,
       "2025-09-02": 47,
@@ -649,8 +649,7 @@
       "2025-06-04": 87,
       "2025-06-03": 57,
       "2025-06-02": 37,
-      "2025-06-01": 16,
-      "2025-05-30": 40
+      "2025-06-01": 16
     }
   },
   {
@@ -801,9 +800,9 @@
     "slug": "link-shortener",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.46%",
     "time": 1307,
     "timeDay": 1385,
@@ -811,7 +810,7 @@
     "timeMonth": 1360,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-09-05": 24,
+      "2025-09-05": 16,
       "2025-09-04": 47,
       "2025-09-03": 148,
       "2025-09-02": 45,
@@ -865,7 +864,8 @@
       "2025-06-06": 21,
       "2025-06-04": 40,
       "2025-06-03": 57,
-      "2025-06-02": 34
+      "2025-06-02": 34,
+      "2025-05-30": 39
     }
   },
   {
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-05": 421,
+      "2025-09-05": 602,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1505,7 +1505,7 @@
     "timeMonth": 0,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2025-09-05": 421,
+      "2025-09-05": 602,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
