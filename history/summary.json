@@ -129,11 +129,11 @@
     "url": "https://ws.sipadu.stis.ac.id/login",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "95.99%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.26%",
     "time": 1425,
     "timeDay": 1294,
@@ -141,6 +141,7 @@
     "timeMonth": 1472,
     "timeYear": 1391,
     "dailyMinutesDown": {
+      "2025-09-15": 2,
       "2025-09-10": 130,
       "2025-09-09": 805,
       "2025-09-08": 105,
@@ -195,8 +196,7 @@
       "2025-06-13": 43,
       "2025-06-12": 49,
       "2025-06-11": 67,
-      "2025-06-10": 46,
-      "2025-06-09": 15
+      "2025-06-10": 46
     }
   },
   {
@@ -275,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "52.90%",
+    "uptime": "52.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -286,7 +286,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-15": 1289,
+      "2025-09-15": 1351,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -975,7 +975,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-15": 1290,
+      "2025-09-15": 1352,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -1531,7 +1531,7 @@
     "timeMonth": 0,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2025-09-15": 1290,
+      "2025-09-15": 1352,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
