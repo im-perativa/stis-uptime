@@ -277,7 +277,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "52.57%",
+    "uptime": "52.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-22": 101,
+      "2025-09-22": 268,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -745,10 +745,10 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "98.84%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "99.28%",
     "time": 1761,
@@ -757,6 +757,7 @@
     "timeMonth": 1962,
     "timeYear": 1833,
     "dailyMinutesDown": {
+      "2025-09-22": 2,
       "2025-09-21": 36,
       "2025-09-18": 80,
       "2025-09-10": 130,
@@ -810,7 +811,7 @@
       "2025-06-11": 62,
       "2025-06-10": 90,
       "2025-06-09": 16,
-      "2025-06-08": 34
+      "2025-06-08": 16
     }
   },
   {
@@ -979,7 +980,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-22": 101,
+      "2025-09-22": 268,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -1535,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-09-22": 102,
+      "2025-09-22": 268,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
