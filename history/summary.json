@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-24": 353,
+      "2025-09-24": 475,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -820,18 +820,19 @@
     "url": "https://s.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/s.stis.ac.id.ico",
     "slug": "link-shortener",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "95.98%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 1232,
     "timeDay": 1191,
     "timeWeek": 1380,
     "timeMonth": 1356,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2025-09-24": 3,
       "2025-09-21": 44,
       "2025-09-18": 80,
       "2025-09-17": 27,
@@ -888,7 +889,7 @@
       "2025-06-11": 60,
       "2025-06-10": 59,
       "2025-06-09": 16,
-      "2025-06-08": 104
+      "2025-06-08": 33
     }
   },
   {
@@ -970,7 +971,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "23.90%",
+    "uptime": "23.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -981,7 +982,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-24": 354,
+      "2025-09-24": 476,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -1460,17 +1461,16 @@
     "slug": "prosiding-internasional-icdsos",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "99.19%",
     "time": 3347,
     "timeDay": 3066,
     "timeWeek": 3181,
     "timeMonth": 3569,
     "timeYear": 3472,
     "dailyMinutesDown": {
-      "2025-09-24": 9,
       "2025-09-22": 18,
       "2025-09-18": 57,
       "2025-09-15": 16,
@@ -1519,7 +1519,7 @@
       "2025-06-17": 145,
       "2025-06-16": 107,
       "2025-06-15": 39,
-      "2025-06-14": 51
+      "2025-06-14": 72
     }
   },
   {
@@ -1539,7 +1539,7 @@
     "timeMonth": 0,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-09-24": 354,
+      "2025-09-24": 476,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -1912,7 +1912,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alumni.stis.ac.id.ico",
     "slug": "web-alumni-stis",
     "status": "up",
-    "uptime": "95.93%",
+    "uptime": "95.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.88%",
