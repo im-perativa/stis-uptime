@@ -135,7 +135,7 @@
     "time": 1364,
     "timeDay": 1482,
     "timeWeek": 1905,
-    "timeMonth": 1536,
+    "timeMonth": 1535,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2025-09-27": 20,
@@ -211,7 +211,7 @@
     "time": 1893,
     "timeDay": 1731,
     "timeWeek": 1935,
-    "timeMonth": 1974,
+    "timeMonth": 1972,
     "timeYear": 1891,
     "dailyMinutesDown": {
       "2025-09-21": 28,
@@ -274,7 +274,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/student.stis.ac.id.ico",
     "slug": "web-student-skripsi",
     "status": "down",
-    "uptime": "52.30%",
+    "uptime": "52.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -285,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-27": 258,
+      "2025-09-27": 618,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -603,7 +603,7 @@
     "time": 1789,
     "timeDay": 1878,
     "timeWeek": 1683,
-    "timeMonth": 1786,
+    "timeMonth": 1781,
     "timeYear": 1837,
     "dailyMinutesDown": {
       "2025-09-18": 82,
@@ -676,7 +676,7 @@
     "time": 1815,
     "timeDay": 2085,
     "timeWeek": 1687,
-    "timeMonth": 1729,
+    "timeMonth": 1735,
     "timeYear": 1846,
     "dailyMinutesDown": {
       "2025-09-27": 20,
@@ -750,7 +750,7 @@
     "time": 1764,
     "timeDay": 2245,
     "timeWeek": 1878,
-    "timeMonth": 1936,
+    "timeMonth": 1933,
     "timeYear": 1829,
     "dailyMinutesDown": {
       "2025-09-22": 15,
@@ -824,7 +824,7 @@
     "time": 1222,
     "timeDay": 1369,
     "timeWeek": 1374,
-    "timeMonth": 1352,
+    "timeMonth": 1350,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-09-27": 19,
@@ -902,7 +902,7 @@
     "time": 3565,
     "timeDay": 2959,
     "timeWeek": 2924,
-    "timeMonth": 3413,
+    "timeMonth": 3405,
     "timeYear": 3454,
     "dailyMinutesDown": {
       "2025-09-26": 20,
@@ -967,7 +967,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "23.81%",
+    "uptime": "23.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -978,7 +978,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-27": 258,
+      "2025-09-27": 619,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1451,18 +1451,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "99.19%",
-    "time": 3352,
+    "uptimeYear": "99.20%",
+    "time": 3354,
     "timeDay": 3446,
     "timeWeek": 3222,
-    "timeMonth": 3522,
+    "timeMonth": 3519,
     "timeYear": 3475,
     "dailyMinutesDown": {
+      "2025-09-27": 1,
       "2025-09-22": 18,
       "2025-09-18": 57,
       "2025-09-15": 16,
@@ -1511,7 +1512,7 @@
       "2025-06-17": 145,
       "2025-06-16": 107,
       "2025-06-15": 39,
-      "2025-06-14": 72
+      "2025-06-14": 51
     }
   },
   {
@@ -1520,7 +1521,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.stis.ac.id.ico",
     "slug": "sister-politeknik-statistika-stis",
     "status": "down",
-    "uptime": "14.02%",
+    "uptime": "14.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1531,7 +1532,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-09-27": 259,
+      "2025-09-27": 619,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
