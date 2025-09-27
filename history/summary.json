@@ -126,18 +126,19 @@
     "url": "https://ws.sipadu.stis.ac.id/login",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "99.25%",
-    "time": 1368,
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.26%",
+    "time": 1364,
     "timeDay": 1520,
     "timeWeek": 1944,
     "timeMonth": 1537,
     "timeYear": 1402,
     "dailyMinutesDown": {
+      "2025-09-27": 4,
       "2025-09-22": 33,
       "2025-09-21": 44,
       "2025-09-18": 70,
@@ -193,7 +194,7 @@
       "2025-06-15": 16,
       "2025-06-14": 153,
       "2025-06-13": 43,
-      "2025-06-12": 49
+      "2025-06-12": 17
     }
   },
   {
@@ -284,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-09-27": 83,
+      "2025-09-27": 239,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -666,18 +667,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "99.25%",
-    "time": 1820,
+    "time": 1821,
     "timeDay": 2024,
     "timeWeek": 1646,
     "timeMonth": 1725,
     "timeYear": 1846,
     "dailyMinutesDown": {
+      "2025-09-27": 3,
       "2025-09-22": 24,
       "2025-09-21": 43,
       "2025-09-18": 68,
@@ -731,8 +733,7 @@
       "2025-06-15": 25,
       "2025-06-14": 122,
       "2025-06-13": 43,
-      "2025-06-12": 65,
-      "2025-06-11": 17
+      "2025-06-12": 65
     }
   },
   {
@@ -814,18 +815,19 @@
     "url": "https://s.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/s.stis.ac.id.ico",
     "slug": "link-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "96.32%",
     "uptimeYear": "99.29%",
-    "time": 1233,
+    "time": 1222,
     "timeDay": 1426,
     "timeWeek": 1381,
     "timeMonth": 1353,
     "timeYear": 1258,
     "dailyMinutesDown": {
+      "2025-09-27": 2,
       "2025-09-24": 20,
       "2025-09-21": 44,
       "2025-09-18": 80,
@@ -883,7 +885,7 @@
       "2025-06-11": 60,
       "2025-06-10": 59,
       "2025-06-09": 16,
-      "2025-06-08": 33
+      "2025-06-08": 15
     }
   },
   {
@@ -976,7 +978,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-09-27": 84,
+      "2025-09-27": 239,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1529,7 +1531,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-09-27": 84,
+      "2025-09-27": 239,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
