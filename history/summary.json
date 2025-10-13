@@ -285,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2025-10-13": 1064,
+      "2025-10-13": 1073,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -742,19 +742,19 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.28%",
-    "time": 1780,
+    "time": 1781,
     "timeDay": 1700,
     "timeWeek": 1816,
     "timeMonth": 1841,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2025-10-13": 33,
+      "2025-10-13": 36,
       "2025-09-22": 15,
       "2025-09-21": 36,
       "2025-09-18": 80,
@@ -807,7 +807,7 @@
       "2025-06-13": 102,
       "2025-06-12": 114,
       "2025-06-11": 62,
-      "2025-06-10": 90
+      "2025-06-10": 69
     }
   },
   {
@@ -978,7 +978,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-13": 1064,
+      "2025-10-13": 1073,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -1452,19 +1452,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.10%",
-    "time": 3354,
+    "time": 3350,
     "timeDay": 3069,
     "timeWeek": 3331,
     "timeMonth": 3184,
     "timeYear": 3492,
     "dailyMinutesDown": {
-      "2025-10-13": 15,
+      "2025-10-13": 16,
       "2025-10-05": 167,
       "2025-10-04": 382,
       "2025-09-27": 16,
@@ -1515,7 +1515,7 @@
       "2025-06-18": 131,
       "2025-06-17": 145,
       "2025-06-16": 107,
-      "2025-06-15": 39
+      "2025-06-15": 16
     }
   },
   {
@@ -1535,7 +1535,7 @@
     "timeMonth": 0,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2025-10-13": 1064,
+      "2025-10-13": 1073,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
