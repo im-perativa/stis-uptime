@@ -278,14 +278,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.09%",
+    "uptimeYear": "34.07%",
     "time": 1262,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2025-10-14": 86,
+      "2025-10-14": 229,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -669,18 +669,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.25%",
-    "time": 1768,
+    "time": 1769,
     "timeDay": 1363,
     "timeWeek": 1540,
     "timeMonth": 1598,
     "timeYear": 1828,
     "dailyMinutesDown": {
+      "2025-10-14": 3,
       "2025-10-13": 80,
       "2025-09-27": 20,
       "2025-09-22": 24,
@@ -734,8 +735,7 @@
       "2025-06-17": 120,
       "2025-06-16": 69,
       "2025-06-15": 25,
-      "2025-06-14": 122,
-      "2025-06-13": 23
+      "2025-06-14": 122
     }
   },
   {
@@ -743,18 +743,19 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.92%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.28%",
-    "time": 1783,
+    "time": 1784,
     "timeDay": 1699,
     "timeWeek": 1809,
     "timeMonth": 1839,
     "timeYear": 1845,
     "dailyMinutesDown": {
+      "2025-10-14": 2,
       "2025-10-13": 59,
       "2025-09-22": 15,
       "2025-09-21": 36,
@@ -808,7 +809,7 @@
       "2025-06-13": 102,
       "2025-06-12": 114,
       "2025-06-11": 62,
-      "2025-06-10": 69
+      "2025-06-10": 50
     }
   },
   {
@@ -978,7 +979,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-14": 87,
+      "2025-10-14": 229,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1535,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2025-10-14": 87,
+      "2025-10-14": 229,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
