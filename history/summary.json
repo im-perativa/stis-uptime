@@ -130,9 +130,9 @@
     "slug": "sipadu-ng",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.23%",
     "time": 1375,
     "timeDay": 1416,
@@ -140,7 +140,7 @@
     "timeMonth": 1430,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-10-25": 130,
+      "2025-10-25": 122,
       "2025-10-18": 47,
       "2025-10-14": 18,
       "2025-10-13": 77,
@@ -198,7 +198,7 @@
       "2025-06-17": 72,
       "2025-06-16": 92,
       "2025-06-15": 16,
-      "2025-06-14": 56
+      "2025-06-14": 82
     }
   },
   {
@@ -208,7 +208,7 @@
     "slug": "sipadu-o-auth",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "16.81%",
+    "uptimeDay": "18.05%",
     "uptimeWeek": "32.06%",
     "uptimeMonth": "83.96%",
     "uptimeYear": "98.01%",
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-10-25": 661,
+      "2025-10-25": 679,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -617,19 +617,19 @@
     "url": "https://simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.52%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.28%",
-    "time": 1807,
+    "time": 1808,
     "timeDay": 1840,
     "timeWeek": 2598,
     "timeMonth": 1876,
     "timeYear": 1850,
     "dailyMinutesDown": {
-      "2025-10-25": 26,
+      "2025-10-25": 21,
       "2025-10-20": 24,
       "2025-10-14": 79,
       "2025-10-13": 82,
@@ -691,10 +691,10 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "92.43%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.42%",
+    "uptime": "99.65%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.23%",
     "time": 1772,
     "timeDay": 1486,
@@ -702,7 +702,7 @@
     "timeMonth": 1623,
     "timeYear": 1828,
     "dailyMinutesDown": {
-      "2025-10-25": 106,
+      "2025-10-25": 99,
       "2025-10-24": 2,
       "2025-10-14": 46,
       "2025-10-13": 80,
@@ -758,7 +758,7 @@
       "2025-06-17": 120,
       "2025-06-16": 69,
       "2025-06-15": 25,
-      "2025-06-14": 55
+      "2025-06-14": 78
     }
   },
   {
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-25": 662,
+      "2025-10-25": 679,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -1568,7 +1568,7 @@
     "timeMonth": 0,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2025-10-25": 662,
+      "2025-10-25": 680,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
