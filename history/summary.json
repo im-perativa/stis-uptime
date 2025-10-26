@@ -206,18 +206,19 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "32.06%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "32.04%",
     "uptimeMonth": "83.96%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.02%",
     "time": 1908,
     "timeDay": 1934,
     "timeWeek": 3964,
     "timeMonth": 2558,
     "timeYear": 1948,
     "dailyMinutesDown": {
+      "2025-10-26": 3,
       "2025-10-25": 419,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -274,7 +275,7 @@
       "2025-06-16": 71,
       "2025-06-15": 15,
       "2025-06-14": 159,
-      "2025-06-13": 43
+      "2025-06-13": 18
     }
   },
   {
@@ -294,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-10-26": 412,
+      "2025-10-26": 440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1008,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-26": 413,
+      "2025-10-26": 441,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1568,7 +1569,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-26": 413,
+      "2025-10-26": 441,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
