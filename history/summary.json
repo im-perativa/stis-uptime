@@ -207,11 +207,11 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "31.70%",
-    "uptimeMonth": "83.88%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "31.68%",
+    "uptimeMonth": "83.87%",
     "uptimeYear": "98.02%",
     "time": 1911,
     "timeDay": 1923,
@@ -219,7 +219,7 @@
     "timeMonth": 2504,
     "timeYear": 1948,
     "dailyMinutesDown": {
-      "2025-10-26": 36,
+      "2025-10-26": 38,
       "2025-10-25": 419,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -275,7 +275,7 @@
       "2025-06-17": 100,
       "2025-06-16": 71,
       "2025-06-15": 15,
-      "2025-06-14": 159
+      "2025-06-14": 139
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-10-26": 1149,
+      "2025-10-26": 1164,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -694,9 +694,9 @@
     "slug": "simpus-api",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.23%",
     "time": 1775,
     "timeDay": 1461,
@@ -704,7 +704,7 @@
     "timeMonth": 1592,
     "timeYear": 1823,
     "dailyMinutesDown": {
-      "2025-10-26": 31,
+      "2025-10-26": 18,
       "2025-10-25": 176,
       "2025-10-24": 2,
       "2025-10-14": 46,
@@ -759,7 +759,7 @@
       "2025-06-19": 127,
       "2025-06-18": 175,
       "2025-06-17": 120,
-      "2025-06-16": 53
+      "2025-06-16": 69
     }
   },
   {
@@ -996,7 +996,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.stis.ac.id.ico",
     "slug": "repo-stis",
     "status": "down",
-    "uptime": "22.99%",
+    "uptime": "22.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1007,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-26": 1150,
+      "2025-10-26": 1165,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1567,7 +1567,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-26": 1150,
+      "2025-10-26": 1165,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
