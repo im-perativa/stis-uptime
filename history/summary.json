@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-10-26": 689,
+      "2025-10-26": 708,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -619,19 +619,19 @@
     "url": "https://simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.28%",
-    "time": 1810,
+    "time": 1811,
     "timeDay": 1658,
     "timeWeek": 2253,
     "timeMonth": 1838,
     "timeYear": 1848,
     "dailyMinutesDown": {
-      "2025-10-26": 40,
+      "2025-10-26": 43,
       "2025-10-25": 34,
       "2025-10-20": 24,
       "2025-10-14": 79,
@@ -684,7 +684,7 @@
       "2025-06-14": 135,
       "2025-06-13": 36,
       "2025-06-12": 80,
-      "2025-06-11": 64
+      "2025-06-11": 45
     }
   },
   {
@@ -927,9 +927,9 @@
     "slug": "jurnal-asks",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "95.87%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.03%",
     "time": 3565,
     "timeDay": 2870,
@@ -937,7 +937,7 @@
     "timeMonth": 3468,
     "timeYear": 3454,
     "dailyMinutesDown": {
-      "2025-10-26": 65,
+      "2025-10-26": 55,
       "2025-10-25": 132,
       "2025-10-20": 199,
       "2025-10-18": 45,
@@ -988,7 +988,7 @@
       "2025-06-17": 35,
       "2025-06-16": 36,
       "2025-06-15": 25,
-      "2025-06-14": 94
+      "2025-06-14": 112
     }
   },
   {
@@ -1008,7 +1008,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-26": 690,
+      "2025-10-26": 709,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1488,7 +1488,7 @@
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.05%",
     "time": 3363,
-    "timeDay": 3392,
+    "timeDay": 3393,
     "timeWeek": 4584,
     "timeMonth": 3677,
     "timeYear": 3546,
@@ -1568,7 +1568,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-26": 690,
+      "2025-10-26": 709,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
