@@ -208,7 +208,7 @@
     "slug": "sipadu-o-auth",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "92.65%",
+    "uptimeDay": "94.06%",
     "uptimeWeek": "32.06%",
     "uptimeMonth": "83.96%",
     "uptimeYear": "98.01%",
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-10-26": 313,
+      "2025-10-26": 334,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -618,18 +618,19 @@
     "url": "https://simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.29%",
     "time": 1810,
     "timeDay": 1652,
     "timeWeek": 2349,
     "timeMonth": 1852,
     "timeYear": 1849,
     "dailyMinutesDown": {
+      "2025-10-26": 3,
       "2025-10-25": 34,
       "2025-10-20": 24,
       "2025-10-14": 79,
@@ -682,8 +683,7 @@
       "2025-06-14": 135,
       "2025-06-13": 36,
       "2025-06-12": 80,
-      "2025-06-11": 64,
-      "2025-06-10": 22
+      "2025-06-11": 64
     }
   },
   {
@@ -1008,7 +1008,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-26": 314,
+      "2025-10-26": 334,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1567,7 +1567,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-26": 314,
+      "2025-10-26": 334,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
