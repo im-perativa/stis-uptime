@@ -208,7 +208,7 @@
     "slug": "sipadu-o-auth",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "90.86%",
+    "uptimeDay": "91.48%",
     "uptimeWeek": "32.06%",
     "uptimeMonth": "83.96%",
     "uptimeYear": "98.01%",
@@ -287,14 +287,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.79%",
+    "uptimeYear": "30.78%",
     "time": 1261,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-10-26": 288,
+      "2025-10-26": 296,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -619,10 +619,10 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.48%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.28%",
     "time": 1810,
     "timeDay": 1652,
@@ -630,7 +630,6 @@
     "timeMonth": 1852,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2025-10-26": 11,
       "2025-10-25": 34,
       "2025-10-20": 24,
       "2025-10-14": 79,
@@ -683,7 +682,8 @@
       "2025-06-14": 135,
       "2025-06-13": 36,
       "2025-06-12": 80,
-      "2025-06-11": 64
+      "2025-06-11": 64,
+      "2025-06-10": 22
     }
   },
   {
@@ -923,18 +923,19 @@
     "url": "https://jurnal.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/jurnal.stis.ac.id.ico",
     "slug": "jurnal-asks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "90.84%",
-    "uptimeWeek": "96.71%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "96.69%",
     "uptimeMonth": "96.01%",
     "uptimeYear": "99.03%",
-    "time": 3593,
+    "time": 3577,
     "timeDay": 2763,
     "timeWeek": 5075,
     "timeMonth": 3519,
     "timeYear": 3458,
     "dailyMinutesDown": {
+      "2025-10-26": 2,
       "2025-10-25": 132,
       "2025-10-20": 199,
       "2025-10-18": 45,
@@ -987,8 +988,7 @@
       "2025-06-15": 25,
       "2025-06-14": 112,
       "2025-06-13": 19,
-      "2025-06-12": 29,
-      "2025-06-11": 16
+      "2025-06-12": 29
     }
   },
   {
@@ -1008,7 +1008,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-10-26": 288,
+      "2025-10-26": 297,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1567,7 +1567,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-26": 288,
+      "2025-10-26": 297,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
