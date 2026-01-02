@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2026-01-02": 1063,
+      "2026-01-02": 1073,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -649,7 +649,7 @@
     "timeMonth": 1494,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2026-01-02": 1063,
+      "2026-01-02": 1073,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -747,9 +747,9 @@
     "slug": "simpus",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.25%",
     "time": 1834,
     "timeDay": 2460,
@@ -757,7 +757,6 @@
     "timeMonth": 2072,
     "timeYear": 1894,
     "dailyMinutesDown": {
-      "2026-01-02": 15,
       "2025-12-31": 26,
       "2025-12-30": 58,
       "2025-12-27": 17,
@@ -816,7 +815,7 @@
       "2025-06-20": 44,
       "2025-06-19": 112,
       "2025-06-18": 155,
-      "2025-06-17": 4
+      "2025-06-17": 22
     }
   },
   {
@@ -826,7 +825,7 @@
     "slug": "simpus-api",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "60.19%",
+    "uptimeDay": "60.86%",
     "uptimeWeek": "72.83%",
     "uptimeMonth": "82.27%",
     "uptimeYear": "97.84%",
@@ -1168,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2026-01-02": 1064,
+      "2026-01-02": 1074,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1608,7 +1607,7 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "94.94%",
     "time": 3304,
     "timeDay": 2589,
@@ -1672,19 +1671,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "98.87%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 3422,
     "timeDay": 3921,
     "timeWeek": 3959,
     "timeMonth": 3609,
     "timeYear": 3648,
     "dailyMinutesDown": {
-      "2026-01-02": 31,
+      "2026-01-02": 32,
       "2025-12-31": 20,
       "2025-12-30": 27,
       "2025-12-29": 17,
@@ -1748,7 +1747,7 @@
       "2025-07-04": 61,
       "2025-07-03": 119,
       "2025-07-02": 156,
-      "2025-07-01": 193
+      "2025-07-01": 158
     }
   },
   {
@@ -1768,7 +1767,7 @@
     "timeMonth": 0,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2026-01-02": 1064,
+      "2026-01-02": 1074,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
