@@ -127,7 +127,7 @@
     "slug": "sipadu-ng",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "86.30%",
+    "uptimeDay": "87.85%",
     "uptimeWeek": "90.88%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.09%",
@@ -305,7 +305,7 @@
     "timeMonth": 0,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2026-01-02": 475,
+      "2026-01-02": 497,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -642,14 +642,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.18%",
+    "uptimeYear": "84.17%",
     "time": 1568,
     "timeDay": 1371,
     "timeWeek": 1491,
     "timeMonth": 1494,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2026-01-02": 475,
+      "2026-01-02": 497,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -825,17 +825,17 @@
     "slug": "simpus-api",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "18.67%",
-    "uptimeWeek": "72.74%",
-    "uptimeMonth": "82.25%",
-    "uptimeYear": "97.85%",
+    "uptimeDay": "20.86%",
+    "uptimeWeek": "72.83%",
+    "uptimeMonth": "82.27%",
+    "uptimeYear": "97.84%",
     "time": 1777,
     "timeDay": 1573,
     "timeWeek": 1657,
     "timeMonth": 1686,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2026-01-02": 206,
+      "2026-01-02": 197,
       "2026-01-01": 1440,
       "2025-12-31": 912,
       "2025-12-30": 156,
@@ -899,7 +899,8 @@
       "2025-06-26": 23,
       "2025-06-25": 150,
       "2025-06-24": 102,
-      "2025-06-23": 38
+      "2025-06-23": 38,
+      "2025-06-22": 18
     }
   },
   {
@@ -909,9 +910,9 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "99.16%",
     "time": 1829,
     "timeDay": 2006,
@@ -919,7 +920,6 @@
     "timeMonth": 1801,
     "timeYear": 1916,
     "dailyMinutesDown": {
-      "2026-01-02": 9,
       "2025-12-31": 17,
       "2025-12-30": 102,
       "2025-12-29": 50,
@@ -982,7 +982,7 @@
       "2025-06-24": 52,
       "2025-06-23": 36,
       "2025-06-22": 52,
-      "2025-06-21": 53
+      "2025-06-21": 73
     }
   },
   {
@@ -1167,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2026-01-02": 475,
+      "2026-01-02": 498,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
@@ -1607,7 +1607,7 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "94.94%",
     "time": 3304,
     "timeDay": 2589,
@@ -1671,18 +1671,19 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.98%",
-    "time": 3420,
+    "time": 3421,
     "timeDay": 3888,
     "timeWeek": 3955,
     "timeMonth": 3601,
     "timeYear": 3648,
     "dailyMinutesDown": {
+      "2026-01-02": 1,
       "2025-12-31": 20,
       "2025-12-30": 27,
       "2025-12-29": 17,
@@ -1746,8 +1747,7 @@
       "2025-07-04": 61,
       "2025-07-03": 119,
       "2025-07-02": 156,
-      "2025-07-01": 193,
-      "2025-06-27": 19
+      "2025-07-01": 193
     }
   },
   {
@@ -1767,7 +1767,7 @@
     "timeMonth": 0,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2026-01-02": 475,
+      "2026-01-02": 498,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
