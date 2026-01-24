@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 1286,
     "dailyMinutesDown": {
-      "2026-01-24": 295,
+      "2026-01-24": 315,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -662,7 +662,7 @@
     "uptime": "86.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.03%",
+    "uptimeMonth": "50.08%",
     "uptimeYear": "82.51%",
     "time": 1558,
     "timeDay": 1556,
@@ -851,18 +851,19 @@
     "url": "https://api-simpus.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "93.70%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.85%",
     "time": 1785,
     "timeDay": 1278,
     "timeWeek": 1594,
     "timeMonth": 1625,
     "timeYear": 1854,
     "dailyMinutesDown": {
+      "2026-01-24": 2,
       "2026-01-20": 20,
       "2026-01-02": 197,
       "2026-01-01": 1440,
@@ -928,7 +929,7 @@
       "2025-06-26": 23,
       "2025-06-25": 150,
       "2025-06-24": 102,
-      "2025-06-23": 38
+      "2025-06-23": 2
     }
   },
   {
@@ -1199,7 +1200,7 @@
     "timeMonth": 0,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2026-01-24": 295,
+      "2026-01-24": 316,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1575,7 +1576,7 @@
     "uptime": "93.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "94.26%",
     "time": 1209,
     "timeDay": 960,
@@ -1801,7 +1802,7 @@
     "timeMonth": 0,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2026-01-24": 296,
+      "2026-01-24": 316,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
