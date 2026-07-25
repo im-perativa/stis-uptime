@@ -114,11 +114,11 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-ng",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "69.40%",
-    "uptimeWeek": "95.63%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "97.32%",
+    "uptime": "99.23%",
+    "uptimeDay": "65.05%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.31%",
     "time": 1476,
     "timeDay": 1121,
     "timeWeek": 1293,
@@ -196,7 +196,7 @@
       "2026-05-29": 704,
       "2026-05-28": 1440,
       "2026-05-27": 282,
-      "2026-07-25": 441
+      "2026-07-25": 503
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 707,
+      "2026-07-25": 770,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -909,10 +909,10 @@
     "slug": "simpus-api",
     "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "71.06%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "95.69%",
+    "uptimeDay": "66.71%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "95.68%",
     "time": 1747,
     "timeDay": 1493,
     "timeWeek": 1621,
@@ -995,7 +995,7 @@
       "2026-05-28": 1440,
       "2026-06-11": 125,
       "2026-06-10": 731,
-      "2026-07-25": 417
+      "2026-07-25": 479
     }
   },
   {
@@ -1003,17 +1003,17 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "71.40%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "97.30%",
+    "uptimeDay": "67.83%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "97.29%",
     "time": 2042,
-    "timeDay": 2226,
-    "timeWeek": 2538,
-    "timeMonth": 2712,
-    "timeYear": 2053,
+    "timeDay": 2405,
+    "timeWeek": 2544,
+    "timeMonth": 2708,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2025-08-08": 55,
       "2025-08-11": 21,
@@ -1082,7 +1082,7 @@
       "2026-05-27": 445,
       "2026-05-29": 705,
       "2026-05-28": 1440,
-      "2026-07-25": 412
+      "2026-07-25": 463
     }
   },
   {
@@ -1185,17 +1185,17 @@
     "url": "https://jurnal.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/jurnal.stis.ac.id.ico",
     "slug": "jurnal-asks",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "72.06%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "68.46%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "96.39%",
-    "time": 3242,
-    "timeDay": 3459,
-    "timeWeek": 3581,
-    "timeMonth": 3758,
-    "timeYear": 3165,
+    "time": 3241,
+    "timeDay": 3129,
+    "timeWeek": 3483,
+    "timeMonth": 3727,
+    "timeYear": 3164,
     "dailyMinutesDown": {
       "2025-08-25": 16,
       "2025-08-26": 127,
@@ -1263,7 +1263,7 @@
       "2026-06-11": 902,
       "2026-06-10": 730,
       "2026-07-15": 97,
-      "2026-07-25": 402
+      "2026-07-25": 454
     }
   },
   {
@@ -1283,7 +1283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 708,
+      "2026-07-25": 771,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1783,17 +1783,17 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "down",
+    "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "73.06%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "96.82%",
-    "time": 3808,
-    "timeDay": 4730,
-    "timeWeek": 4293,
-    "timeMonth": 4440,
-    "timeYear": 3737,
+    "uptimeDay": "68.81%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "96.81%",
+    "time": 3810,
+    "timeDay": 4725,
+    "timeWeek": 4347,
+    "timeMonth": 4449,
+    "timeYear": 3739,
     "dailyMinutesDown": {
       "2025-08-01": 66,
       "2025-08-02": 17,
@@ -1875,7 +1875,7 @@
       "2026-06-11": 912,
       "2026-06-10": 720,
       "2026-06-26": 68,
-      "2026-07-25": 388
+      "2026-07-25": 449
     }
   },
   {
@@ -1895,7 +1895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 708,
+      "2026-07-25": 771,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2272,7 +2272,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.97%",
+    "uptimeYear": "70.96%",
     "time": 1554,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2353,7 +2353,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-07-25": 708,
+      "2026-07-25": 771,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
