@@ -193,11 +193,11 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "97.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "97.96%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "90.48%",
     "time": 2352,
     "timeDay": 3763,
@@ -288,7 +288,8 @@
       "2026-07-25": 423,
       "2026-08-12": 111,
       "2026-08-13": 48,
-      "2026-08-15": 16
+      "2026-08-15": 16,
+      "2026-08-18": 17
     }
   },
   {
@@ -308,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 959,
+      "2026-08-18": 983,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1149,17 +1150,17 @@
     "url": "https://jurnal.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/jurnal.stis.ac.id.ico",
     "slug": "jurnal-asks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "96.38%",
-    "time": 3266,
-    "timeDay": 5052,
-    "timeWeek": 5055,
-    "timeMonth": 4452,
-    "timeYear": 3192,
+    "time": 3270,
+    "timeDay": 5360,
+    "timeWeek": 5116,
+    "timeMonth": 4486,
+    "timeYear": 3196,
     "dailyMinutesDown": {
       "2025-08-26": 59,
       "2025-08-27": 18,
@@ -1229,7 +1230,7 @@
       "2026-07-25": 454,
       "2026-08-12": 41,
       "2026-08-13": 43,
-      "2026-08-18": 11
+      "2026-08-18": 19
     }
   },
   {
@@ -1249,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 959,
+      "2026-08-18": 983,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1750,10 +1751,10 @@
     "url": "https://proceedings.stis.ac.id/icdsos",
     "icon": "https://icons.duckduckgo.com/ip3/proceedings.stis.ac.id.ico",
     "slug": "prosiding-internasional-icdsos",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "96.87%",
     "time": 3833,
@@ -1835,7 +1836,8 @@
       "2026-06-11": 912,
       "2026-06-10": 720,
       "2026-06-26": 68,
-      "2026-07-25": 449
+      "2026-07-25": 449,
+      "2026-08-18": 1
     }
   },
   {
@@ -1855,7 +1857,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 960,
+      "2026-08-18": 983,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -2232,7 +2234,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.35%",
+    "uptimeYear": "64.34%",
     "time": 1556,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2313,7 +2315,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-08-18": 960,
+      "2026-08-18": 983,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
