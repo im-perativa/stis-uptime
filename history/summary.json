@@ -193,11 +193,11 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.79%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "90.47%",
     "time": 2355,
     "timeDay": 3782,
@@ -289,7 +289,7 @@
       "2026-08-12": 111,
       "2026-08-13": 48,
       "2026-08-15": 16,
-      "2026-08-18": 71
+      "2026-08-18": 91
     }
   },
   {
@@ -309,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1142,
+      "2026-08-18": 1179,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1153,10 +1153,10 @@
     "slug": "jurnal-asks",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "96.38%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "96.37%",
     "time": 3270,
     "timeDay": 4923,
     "timeWeek": 5019,
@@ -1230,7 +1230,7 @@
       "2026-07-25": 454,
       "2026-08-12": 41,
       "2026-08-13": 43,
-      "2026-08-18": 102
+      "2026-08-18": 139
     }
   },
   {
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1142,
+      "2026-08-18": 1180,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1857,7 +1857,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1142,
+      "2026-08-18": 1180,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -2230,11 +2230,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alumni.stis.ac.id.ico",
     "slug": "web-alumni-stis",
     "status": "down",
-    "uptime": "85.09%",
+    "uptime": "85.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.31%",
+    "uptimeYear": "64.30%",
     "time": 1556,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2315,7 +2315,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-08-18": 1142,
+      "2026-08-18": 1180,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
