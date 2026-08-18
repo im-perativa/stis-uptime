@@ -193,13 +193,13 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "97.34%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "90.46%",
-    "time": 2357,
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "90.45%",
+    "time": 2358,
     "timeDay": 3643,
     "timeWeek": 3745,
     "timeMonth": 3731,
@@ -289,7 +289,7 @@
       "2026-08-12": 111,
       "2026-08-13": 48,
       "2026-08-15": 16,
-      "2026-08-18": 141
+      "2026-08-18": 158
     }
   },
   {
@@ -309,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1247,
+      "2026-08-18": 1270,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -984,13 +984,13 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "97.34%",
-    "time": 2074,
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.33%",
+    "time": 2075,
     "timeDay": 2855,
     "timeWeek": 2837,
     "timeMonth": 2772,
@@ -1057,7 +1057,7 @@
       "2026-05-29": 705,
       "2026-05-28": 1440,
       "2026-07-25": 463,
-      "2026-08-18": 29
+      "2026-08-18": 40
     }
   },
   {
@@ -1250,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1247,
+      "2026-08-18": 1270,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1857,7 +1857,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1247,
+      "2026-08-18": 1270,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -2315,7 +2315,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-08-18": 1247,
+      "2026-08-18": 1270,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
