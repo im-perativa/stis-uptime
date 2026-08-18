@@ -193,17 +193,17 @@
     "url": "https://ws.stis.ac.id",
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/sipadung.svg",
     "slug": "sipadu-o-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "90.47%",
-    "time": 2352,
-    "timeDay": 3763,
-    "timeWeek": 3778,
-    "timeMonth": 3739,
-    "timeYear": 2414,
+    "time": 2355,
+    "timeDay": 3782,
+    "timeWeek": 3780,
+    "timeMonth": 3741,
+    "timeYear": 2416,
     "dailyMinutesDown": {
       "2025-08-19": 64,
       "2025-08-20": 15,
@@ -289,7 +289,7 @@
       "2026-08-12": 111,
       "2026-08-13": 48,
       "2026-08-15": 16,
-      "2026-08-18": 63
+      "2026-08-18": 71
     }
   },
   {
@@ -309,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1028,
+      "2026-08-18": 1056,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -984,17 +984,17 @@
     "url": "https://git.stis.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/git.stis.ac.id.ico",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "97.34%",
-    "time": 2073,
-    "timeDay": 2948,
-    "timeWeek": 2847,
+    "time": 2074,
+    "timeDay": 2855,
+    "timeWeek": 2837,
     "timeMonth": 2772,
-    "timeYear": 2091,
+    "timeYear": 2092,
     "dailyMinutesDown": {
       "2025-08-19": 60,
       "2025-08-23": 22,
@@ -1057,7 +1057,7 @@
       "2026-05-29": 705,
       "2026-05-28": 1440,
       "2026-07-25": 463,
-      "2026-08-18": 18
+      "2026-08-18": 29
     }
   },
   {
@@ -1153,10 +1153,10 @@
     "slug": "jurnal-asks",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "96.39%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "96.38%",
     "time": 3269,
     "timeDay": 5360,
     "timeWeek": 5116,
@@ -1231,7 +1231,7 @@
       "2026-07-25": 454,
       "2026-08-12": 41,
       "2026-08-13": 43,
-      "2026-08-18": 30
+      "2026-08-18": 58
     }
   },
   {
@@ -1251,7 +1251,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1029,
+      "2026-08-18": 1056,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1858,7 +1858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 1029,
+      "2026-08-18": 1057,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -2316,7 +2316,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-08-18": 1029,
+      "2026-08-18": 1057,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
