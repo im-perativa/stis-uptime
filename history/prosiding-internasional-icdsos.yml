@@ -1,7 +1,7 @@
 url: https://proceedings.stis.ac.id/icdsos
-status: up
-code: 200
-responseTime: 8075
-lastUpdated: 2026-09-07T00:36:43.663Z
+status: down
+code: 503
+responseTime: 789
+lastUpdated: 2026-09-07T22:19:05.883Z
 startTime: 2023-08-07T02:40:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
