@@ -1,7 +1,7 @@
 url: https://simpus.stis.ac.id
-status: up
-code: 200
-responseTime: 2364
-lastUpdated: 2026-10-11T01:22:28.510Z
+status: down
+code: 503
+responseTime: 1077
+lastUpdated: 2026-10-11T13:36:55.704Z
 startTime: 2023-01-05T07:23:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
