@@ -13,7 +13,7 @@
     "time": 1420,
     "timeDay": 1170,
     "timeWeek": 1348,
-    "timeMonth": 1252,
+    "timeMonth": 1259,
     "timeYear": 1396,
     "dailyMinutesDown": {
       "2026-03-03": 212,
@@ -59,7 +59,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.43%",
+    "uptimeYear": "69.40%",
     "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
@@ -107,7 +107,7 @@
       "2026-05-29": 1164,
       "2026-07-25": 350,
       "2026-08-19": 40,
-      "2026-11-09": 151,
+      "2026-11-09": 300,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -199,7 +199,7 @@
     "time": 1417,
     "timeDay": 923,
     "timeWeek": 987,
-    "timeMonth": 958,
+    "timeMonth": 953,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2025-11-24": 22,
@@ -264,7 +264,7 @@
     "time": 2741,
     "timeDay": 2688,
     "timeWeek": 2734,
-    "timeMonth": 3195,
+    "timeMonth": 3194,
     "timeYear": 2864,
     "dailyMinutesDown": {
       "2025-11-29": 16,
@@ -367,7 +367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 152,
+      "2026-11-09": 301,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -748,7 +748,7 @@
     "time": 1456,
     "timeDay": 1308,
     "timeWeek": 1344,
-    "timeMonth": 1221,
+    "timeMonth": 1224,
     "timeYear": 1440,
     "dailyMinutesDown": {
       "2026-01-08": 583,
@@ -880,7 +880,7 @@
     "time": 2419,
     "timeDay": 1687,
     "timeWeek": 1922,
-    "timeMonth": 1990,
+    "timeMonth": 1961,
     "timeYear": 2567,
     "dailyMinutesDown": {
       "2025-12-05": 36,
@@ -953,11 +953,11 @@
     "icon": "https://raw.githubusercontent.com/im-perativa/stis-uptime/master/assets/simpus.png",
     "slug": "simpus-api",
     "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "52.55%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "69.99%",
-    "uptimeYear": "92.92%",
+    "uptime": "97.68%",
+    "uptimeDay": "42.21%",
+    "uptimeWeek": "89.60%",
+    "uptimeMonth": "69.65%",
+    "uptimeYear": "92.89%",
     "time": 1733,
     "timeDay": 629,
     "timeWeek": 1167,
@@ -1028,7 +1028,7 @@
       "2026-10-11": 623,
       "2026-11-04": 97,
       "2026-11-03": 120,
-      "2026-11-09": 152,
+      "2026-11-09": 301,
       "2026-11-08": 531
     }
   },
@@ -1041,12 +1041,12 @@
     "uptime": "97.89%",
     "uptimeDay": "44.11%",
     "uptimeWeek": "23.78%",
-    "uptimeMonth": "37.07%",
-    "uptimeYear": "92.33%",
+    "uptimeMonth": "36.73%",
+    "uptimeYear": "92.31%",
     "time": 2210,
     "timeDay": 1924,
     "timeWeek": 1891,
-    "timeMonth": 1944,
+    "timeMonth": 1933,
     "timeYear": 2303,
     "dailyMinutesDown": {
       "2025-11-28": 19,
@@ -1118,7 +1118,7 @@
       "2026-11-05": 1328,
       "2026-11-07": 1019,
       "2026-11-08": 946,
-      "2026-11-09": 11
+      "2026-11-09": 160
     }
   },
   {
@@ -1135,7 +1135,7 @@
     "time": 1360,
     "timeDay": 795,
     "timeWeek": 887,
-    "timeMonth": 956,
+    "timeMonth": 950,
     "timeYear": 1344,
     "dailyMinutesDown": {
       "2025-11-17": 28,
@@ -1208,7 +1208,7 @@
     "time": 3598,
     "timeDay": 3246,
     "timeWeek": 3978,
-    "timeMonth": 4052,
+    "timeMonth": 4005,
     "timeYear": 3734,
     "dailyMinutesDown": {
       "2025-11-14": 50,
@@ -1293,7 +1293,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 152,
+      "2026-11-09": 301,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -1674,7 +1674,7 @@
     "time": 1492,
     "timeDay": 2021,
     "timeWeek": 1866,
-    "timeMonth": 1859,
+    "timeMonth": 1867,
     "timeYear": 1574,
     "dailyMinutesDown": {
       "2025-12-24": 423,
@@ -1743,7 +1743,7 @@
     "time": 3137,
     "timeDay": 3006,
     "timeWeek": 3063,
-    "timeMonth": 2940,
+    "timeMonth": 2967,
     "timeYear": 3012,
     "dailyMinutesDown": {
       "2025-11-18": 848,
@@ -1815,7 +1815,7 @@
     "time": 3980,
     "timeDay": 3149,
     "timeWeek": 3416,
-    "timeMonth": 3525,
+    "timeMonth": 3513,
     "timeYear": 4039,
     "dailyMinutesDown": {
       "2025-11-18": 21,
@@ -1902,7 +1902,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 152,
+      "2026-11-09": 301,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -2275,11 +2275,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alumni.stis.ac.id.ico",
     "slug": "web-alumni-stis",
     "status": "down",
-    "uptime": "79.02%",
+    "uptime": "79.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.97%",
+    "uptimeYear": "41.94%",
     "time": 1561,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2354,7 +2354,7 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1105,
-      "2026-11-09": 152,
+      "2026-11-09": 301,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
